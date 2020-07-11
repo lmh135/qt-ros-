@@ -1,0 +1,2 @@
+occupany_mapping
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/liminghui/lmh-scut/qt运行调试ros工程/作业/OccupanyMappingProject/devel -DCMAKE_INSTALL_PREFIX=/home/liminghui/lmh-scut/qt运行调试ros工程/作业/OccupanyMappingProject/install
